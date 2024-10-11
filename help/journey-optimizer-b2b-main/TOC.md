@@ -5,7 +5,7 @@ user-guide-description: Scopri come ottenere il massimo da  [!DNL Journey Optimi
 source-git-commit: 2e58cb29f758a9255f744c98672320c6b3737612
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 6%
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 + [Tutorial su [!DNL Journey Optimizer B2B Edition]](overview.md)
 + [Panoramica dell’edizione B2B di Journey Optimizer](/help/overview-video.md)
 + Gruppo di acquisto {#buying-groups}
-   + [Panoramica sui gruppi di acquisto](/help/buying-groups/buying-groups-overview.md)
+   + [Panoramica dei gruppi di acquisto](/help/buying-groups/buying-groups-overview.md)
    + [Creare un gruppo di acquisto](/help/buying-groups/create-a-buying-group.md)
    + [Modelli di ruolo](/help/buying-groups/role-templates.md)
    + [Interesse nella soluzione](/help/buying-groups/solution-interest.md)
