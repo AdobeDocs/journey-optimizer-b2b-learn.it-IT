@@ -18,4 +18,4 @@ ht-degree: 15%
    + [Panoramica dei gruppi di acquisto](/help/buying-groups/buying-groups-overview.md)
    + [Creare un gruppo di acquisto](/help/buying-groups/create-a-buying-group.md)
    + [Modelli di ruolo](/help/buying-groups/role-templates.md)
-   + [Interesse nella soluzione](/help/buying-groups/solution-interest.md)
+   + [Interesse della soluzione](/help/buying-groups/solution-interest.md)
