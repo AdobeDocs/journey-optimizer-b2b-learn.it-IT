@@ -1,13 +1,13 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
+title: Tutorial su [!DNL Journey Optimizer B2B Edition]
 description: Guarda i tutorial video su [!DNL Journey Optimizer B2B Edition]. Scopri di più su come orchestrare percorsi di account e gruppi di acquisto e altro ancora.
-source-git-commit: 2e58cb29f758a9255f744c98672320c6b3737612
+exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
+source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
 
 ---
-
 
 # Tutorial su [!DNL Journey Optimizer B2B Edition]
 
