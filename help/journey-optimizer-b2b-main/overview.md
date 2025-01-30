@@ -2,16 +2,16 @@
 title: Tutorial su [!DNL Journey Optimizer B2B Edition]
 description: Guarda i tutorial video su [!DNL Journey Optimizer B2B Edition]. Scopri di più su come orchestrare percorsi di account e gruppi di acquisto e altro ancora.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
+source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # Tutorial su [!DNL Journey Optimizer B2B Edition]
 
-Scopri come ottenere il massimo da [!DNL Journey Optimizer B2B Edition]. Orchestrazione di percorsi di account e gruppi di acquisto utilizzando l’intelligenza artificiale generativa integrata e l’automazione leader del settore per massimizzare la domanda di offerte specifiche.
+Scopri come ottenere il massimo da [!DNL Journey Optimizer B2B Edition]. Organizza account e percorsi del gruppo acquisti utilizzando l’intelligenza artificiale generativa integrata e l’automazione leader di settore per ottimizzare la domanda di offerte specifiche.
 
 >[!NOTE]
 >
@@ -19,14 +19,20 @@ Scopri come ottenere il massimo da [!DNL Journey Optimizer B2B Edition]. Orchest
 
 ## Novità {#whats-new}
 
-* [Panoramica sui gruppi di acquisto](/help/buying-groups/buying-groups-overview.md)
-  _Scopri come acquistare gruppi e come utilizzarli._
+* [Introduzione ai Percorsi di account](/help/account-journeys/introducing-account-journeys.md)
+  _Scopri tutto sui Percorsi di account e come utilizzarli per coinvolgere il tuo pubblico di destinazione._
 
-* [Crea un gruppo di acquisto](/help/buying-groups/create-a-buying-group.md)
-  _Scopri come utilizzare un pubblico di account, un modello di ruolo e un interesse per la soluzione per creare gruppi di acquisto._
+* [Creazione di un Percorso di account](/help/account-journeys/create-an-account-journey.md)
+  _Scopri come utilizzare il pubblico dell&#39;account, il nodo di azione, il nodo di ascolto e il nodo dei percorsi suddivisi per creare Percorsi di account._
 
-* [Interesse soluzione](/help/buying-groups/solution-interest.md)
-  _Scopri come acquistare gli interessi delle soluzioni di gruppo e come configurarli/utilizzarli durante la creazione di un gruppo di acquisto._
+* [Nodo azione](/help/account-journeys/action-node.md)
+  _Scopri i nodi delle azioni e come configurarli durante la creazione di un Percorso di account._
+
+* [Nodo di ascolto](/help/account-journeys/listen-node.md)
+  _Scopri i nodi di ascolto e come configurarli durante la creazione di un Percorso di account._
+
+* [Dividi Percorso di account](/help/account-journeys/split-account-journey.md)
+  _Scopri i nodi del percorso di unione/suddivisione e come configurarli durante la creazione di un Percorso di account._
 
 ## Video più popolari {#most-popular-videos}
 
