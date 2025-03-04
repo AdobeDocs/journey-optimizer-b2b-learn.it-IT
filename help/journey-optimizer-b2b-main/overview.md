@@ -2,10 +2,10 @@
 title: Tutorial su [!DNL Journey Optimizer B2B Edition]
 description: Guarda i tutorial video su [!DNL Journey Optimizer B2B Edition]. Scopri di più su come orchestrare percorsi di account e gruppi di acquisto e altro ancora.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Scopri come ottenere il massimo da [!DNL Journey Optimizer B2B Edition]. Organiz
 
 ## Novità {#whats-new}
 
-* [Introduzione ai Percorsi di account](/help/account-journeys/introducing-account-journeys.md)
-  _Scopri tutto sui Percorsi di account e come utilizzarli per coinvolgere il tuo pubblico di destinazione._
+* [Fasi del gruppo di acquisto](/help/buying-groups/buying-group-stages.md)
+  _Scopri come creare più fasi del ciclo di vita del gruppo di acquisto all&#39;interno di un modello a fase singola e specificare le regole di transizione._
 
-* [Creazione di un Percorso di account](/help/account-journeys/create-an-account-journey.md)
-  _Scopri come utilizzare il pubblico dell&#39;account, il nodo di azione, il nodo di ascolto e il nodo dei percorsi suddivisi per creare Percorsi di account._
+* [Ascolta eventi AEP](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _Definisci e utilizza qualsiasi evento esperienza nel tuo percorso di account._
 
-* [Nodo azione](/help/account-journeys/journey-nodes/action-node.md)
-  _Scopri i nodi delle azioni e come configurarli durante la creazione di un Percorso di account._
-
-* [Nodo di ascolto](/help/account-journeys/journey-nodes/listen-node.md)
-  _Scopri i nodi di ascolto e come configurarli durante la creazione di un Percorso di account._
-
-* [Dividi Percorso di account](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _Scopri i nodi del percorso di unione/suddivisione e come configurarli durante la creazione di un Percorso di account._
+* [Orchestrazione di file multimediali a pagamento](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _Scopri come utilizzare un percorso per spostare le persone in un pubblico esterno, che puoi quindi inviare a qualsiasi destinazione di paid media supportata nel catalogo delle destinazioni di AEP._
 
 ## Video più popolari {#most-popular-videos}
 
