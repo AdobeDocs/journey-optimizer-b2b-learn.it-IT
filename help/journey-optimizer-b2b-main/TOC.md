@@ -1,11 +1,11 @@
 ---
 user-guide-title: Tutorial su [!DNL Journey Optimizer B2B Edition]
 breadcrumb-title: Tutorial su [!DNL Journey Optimizer B2B Edition]
-user-guide-description: Scopri come ottenere il massimo da  [!DNL Journey Optimizer B2B Edition]. Organizza account e percorsi del gruppo acquisti utilizzando l’intelligenza artificiale generativa integrata e l’automazione leader di settore per ottimizzare la domanda di offerte specifiche.
+user-guide-description: Scopri come ottenere il massimo da  [!DNL Journey Optimizer B2B Edition]. Organizza account e percorsi del gruppo acquisti utilizzando l’intelligenza artificiale generativa incorporata e l’automazione leader di settore per ottimizzare la domanda di offerte specifiche.
 source-git-commit: dafc46340bb566560c9f3f4db5a9225793c2de62
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 43%
+ht-degree: 48%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 43%
       + [Ascolta eventi di AEP](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
       + [Orchestrazione di file multimediali a pagamento](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
       + [Dividi percorso di conti](/help/account-journeys/journey-nodes/split-account-journey.md)
-+ Gruppo di acquisto {#buying-groups}
++ Gruppi acquisti {#buying-groups}
    + [Panoramica dei gruppi di acquisto](/help/buying-groups/buying-groups-overview.md)
    + [Fasi del gruppo di acquisto](/help/buying-groups/buying-group-stages.md)
    + [Creare un gruppo di acquisto](/help/buying-groups/create-a-buying-group.md)
    + [Modelli di ruolo](/help/buying-groups/role-templates.md)
-   + [Interesse per soluzione](/help/buying-groups/solution-interest.md)
+   + [Interesse della soluzione](/help/buying-groups/solution-interest.md)
