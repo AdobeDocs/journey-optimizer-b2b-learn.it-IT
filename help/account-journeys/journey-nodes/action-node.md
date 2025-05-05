@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri i nodi delle azioni e come configurarli durante la creazione di un Percorso di account.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443253/?learn=on&enablevpops&captions=ita)

@@ -22,4 +22,4 @@ Le fasi del gruppo di acquisto rappresentano le diverse fasi che un gruppo di ac
 
 Con questa funzione, puoi creare più fasi del ciclo di vita del gruppo di acquisto all’interno di un singolo modello di stadio e specificare le regole di transizione. Impostando queste regole, avrai il controllo completo su come un gruppo di acquisto può passare da una fase all&#39;altra. Le transizioni di stage possono quindi essere automatizzate all&#39;interno di un Percorso, combinando queste funzionalità in un unico potente flusso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448702/?learn=on&enablevpops&captions=ita)

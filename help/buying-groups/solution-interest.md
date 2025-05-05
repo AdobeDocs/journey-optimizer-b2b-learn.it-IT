@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Scopri come acquistare gli interessi delle soluzioni di gruppo e come configurarli/utilizzarli durante la creazione di un gruppo di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450121/?learn=on&captions=ita)

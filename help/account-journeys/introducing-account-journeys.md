@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri tutto sui Percorsi di account e come utilizzarli per coinvolgere il tuo pubblico di destinazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443215/?learn=on&enablevpops&captions=ita)

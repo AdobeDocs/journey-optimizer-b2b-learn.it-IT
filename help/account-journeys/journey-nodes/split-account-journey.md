@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri i nodi del percorso di unione/suddivisione e come configurarli durante la creazione di un Percorso di account.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443264/?learn=on&enablevpops&captions=ita)

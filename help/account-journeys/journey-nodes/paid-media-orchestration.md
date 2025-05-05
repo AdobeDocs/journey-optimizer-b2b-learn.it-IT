@@ -30,4 +30,4 @@ Come soluzione a questa sfida, AJO B2B offre l’opportunità di:
 
 Questo video illustra come utilizzare un percorso per spostare le persone in un pubblico esterno, che puoi quindi inviare a qualsiasi destinazione di paid media supportata nel catalogo delle destinazioni di AEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448680/?learn=on&enablevpops&captions=ita)

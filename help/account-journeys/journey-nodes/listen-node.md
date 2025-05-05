@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri i nodi di ascolto e come configurarli durante la creazione di un Percorso di account.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443242/?learn=on&enablevpops&captions=ita)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come utilizzare un pubblico di account, un modello di ruolo e un interesse per la soluzione per creare gruppi di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451769/?learn=on&captions=ita)

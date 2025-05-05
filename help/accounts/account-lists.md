@@ -30,4 +30,4 @@ Una volta creati e compilati gli elenchi di account con gli account rilevanti, q
 
 In sintesi, gli elenchi di account in AJO B2B sono un elemento fondamentale per la gestione e l’orchestrazione delle attività di marketing basate sugli account e del coinvolgimento dei clienti. Consentono agli utenti di organizzare, eseguire il targeting e personalizzare gli impegni di marketing per gli account chiave, guidando interazioni e relazioni significative.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448657/?learn=on&enablevpops&captions=ita)

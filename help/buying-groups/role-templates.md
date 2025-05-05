@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come acquistare modelli di ruolo di gruppo e come configurarli/utilizzarli durante la creazione di un gruppo di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453309/?learn=on&captions=ita)
