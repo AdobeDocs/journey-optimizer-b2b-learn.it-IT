@@ -28,4 +28,4 @@ Dopo aver creato e compilato gli elenchi di account con gli account rilevanti, q
 
 In sintesi, gli elenchi di account in [!DNL Journey Optimizer B2B Edition] sono un elemento fondamentale per la gestione e l&#39;orchestrazione delle attività di marketing e coinvolgimento dei clienti basate sugli account. Consentono di organizzare, eseguire il targeting e personalizzare impegni di marketing per account chiave, guidando interazioni e relazioni significative.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448657/?learn=on&enablevpops&captions=ita)
