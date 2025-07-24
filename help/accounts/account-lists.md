@@ -8,26 +8,24 @@ doc-type: Feature Video
 duration: 331
 last-substantial-update: 2025-02-28T00:00:00Z
 jira: KT-17442
-hide: true
-hidefromtoc: true
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
 
 # Elenchi account
 
-Utilizzando gli elenchi di account, potrai creare elenchi filtrati di account che possono essere utilizzati come pubblico di percorso.
+Utilizzando gli elenchi di account, puoi creare elenchi filtrati di account che possono essere utilizzati come pubblico di percorso.
 
-Gli elenchi di conti vengono utilizzati per raggruppare e organizzare i conti in base a criteri specifici, ad esempio settore, dimensioni, posizione o altri attributi rilevanti. Questi elenchi sono essenziali per il targeting e la personalizzazione degli impegni di marketing, per orchestrare percorsi di clienti e per gestire strategie di marketing basate sull’account in AJO B2B.
+Gli elenchi di conti vengono utilizzati per raggruppare e organizzare i conti in base a criteri specifici, ad esempio settore, dimensioni, posizione o altri attributi rilevanti. Questi elenchi sono essenziali per il targeting e la personalizzazione degli impegni di marketing, l&#39;orchestrazione dei percorsi di clienti e la gestione delle strategie di marketing basate sugli account in [!DNL Journey Optimizer B2B Edition].
 
-In AJO B2B, gli utenti possono creare, gestire e gestire elenchi di account per supportare le proprie iniziative di marketing e vendita. Gli elenchi di account possono essere utilizzati per definire tipi di pubblico target, personalizzare le esperienze dei clienti e stimolare il coinvolgimento con gli account chiave.
+In [!DNL Journey Optimizer B2B Edition] è possibile creare, gestire e gestire elenchi di account per supportare le iniziative di marketing e di vendita. Gli elenchi di account possono essere utilizzati per definire tipi di pubblico target, personalizzare le esperienze dei clienti e stimolare il coinvolgimento con gli account chiave.
 
-Una volta creati e compilati gli elenchi di account con gli account rilevanti, questi possono essere attivati su vari canali e punti di contatto per fornire impegni di marketing personalizzati e mirati. AJO B2B fornisce funzionalità per attivare elenchi di account per campagne di marketing basate su account, percorsi di clienti e altre attività di marketing.
+Dopo aver creato e compilato gli elenchi di account con gli account rilevanti, questi possono essere attivati su vari canali e punti di contatto per fornire impegni di marketing personalizzati e mirati. [!DNL Journey Optimizer B2B Edition] fornisce funzionalità per attivare elenchi di account per campagne di marketing basate su account, percorsi di clienti e altre attività di marketing.
 
-In sintesi, gli elenchi di account in AJO B2B sono un elemento fondamentale per la gestione e l’orchestrazione delle attività di marketing basate sugli account e del coinvolgimento dei clienti. Consentono agli utenti di organizzare, eseguire il targeting e personalizzare gli impegni di marketing per gli account chiave, guidando interazioni e relazioni significative.
+In sintesi, gli elenchi di account in [!DNL Journey Optimizer B2B Edition] sono un elemento fondamentale per la gestione e l&#39;orchestrazione delle attività di marketing e coinvolgimento dei clienti basate sugli account. Consentono di organizzare, eseguire il targeting e personalizzare impegni di marketing per account chiave, guidando interazioni e relazioni significative.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448657/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
