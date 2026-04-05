@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come utilizzare il pubblico dell’account, il nodo di azione, il nodo di ascolto e il nodo dei percorsi suddivisi per creare Percorsi di account.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443227/?captions=ita&learn=on&enablevpops)
