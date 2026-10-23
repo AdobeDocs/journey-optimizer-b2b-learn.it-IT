@@ -32,6 +32,6 @@ ht-degree: 5%
 
 Scopri i nodi del percorso di unione e di suddivisione e come configurarli durante la creazione di un account o di un percorso di persone.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443264/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, vedere _[Dividere e unire i percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ nella guida utente.

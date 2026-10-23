@@ -32,6 +32,6 @@ ht-degree: 34%
 
 Scopri tutto su come acquistare i gruppi e come utilizzarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452945/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, vedere _[Gruppo acquisti](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ nella guida utente.
