@@ -48,4 +48,4 @@ Scopri come:
 * Rivedi e aggiorna i membri del gruppo di acquisto. Gli aggiornamenti manuali hanno la precedenza sulle azioni e sui processi di percorso.
 * Utilizza le informazioni sul ruolo per confrontare l’acquisizione e il coinvolgimento tra i ruoli, filtrati per intervallo di date.
 
-Per ulteriori informazioni, vedere _[Gruppo acquisti](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ nella guida utente.
+Per ulteriori informazioni, vedere _[Gruppo acquisti](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ nella guida utente.

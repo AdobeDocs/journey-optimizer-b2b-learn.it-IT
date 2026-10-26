@@ -53,4 +53,4 @@ Scopri come:
 * Utilizzare le impostazioni del punteggio di completezza per impostare il numero di membri necessari per ogni ruolo.
 * Pubblica un modello in modo che il suo stato cambi in Live ed è disponibile per gli interessi della soluzione.
 
-Per ulteriori informazioni, vedere [Acquisto di modelli di ruolo di gruppo](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) nella guida utente.
+Per ulteriori informazioni, vedere [Acquisto di modelli di ruolo di gruppo](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) nella guida utente.
