@@ -40,7 +40,7 @@ Scopri come creare modelli di ruolo in [!DNL Adobe Journey Optimizer B2B Edition
 
 Questa esercitazione è destinata agli addetti al marketing e agli amministratori che utilizzano [!DNL Journey Optimizer B2B Edition] per attività di marketing basate sull&#39;account e desiderano eseguire il targeting delle parti interessate in ogni account.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453309/?captions=ita&learn=on)
 
 Scopri come:
 

@@ -35,7 +35,7 @@ Scopri come i gruppi di acquisto organizzano le persone per le decisioni di acqu
 
 Questo tutorial è destinato agli esperti di marketing e agli amministratori che utilizzano [!DNL Journey Optimizer B2B Edition] per attività di marketing basate sull&#39;account e desiderano indirizzare gli utenti interessati e qualificare gli account.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452945/?captions=ita&learn=on&enablevpops)
 
 Scopri come:
 
