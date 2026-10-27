@@ -1,12 +1,13 @@
 ---
-title: Modelli di ruolo
-description: Scopri come acquistare modelli di ruolo di gruppo e come configurarli/utilizzarli durante la creazione di un gruppo di acquisto.
+title: Modelli di ruoli del gruppo acquisti
+description: Scopri come creare e pubblicare modelli di ruolo per i gruppi di acquisto in Adobe [!DNL Journey Optimizer B2B Edition], con le impostazioni di ponderazione dei ruoli, assegnazione automatica, priorità e completezza.
+keywords: modelli di ruolo, ruoli del gruppo di acquisto, Adobe [!DNL Journey Optimizer B2B Edition], gruppi di acquisto, marketing basato su account, condizioni di assegnazione ruolo, priorità ruolo, punteggio di completezza, decision maker, marketing B2B, interesse soluzione
 feature: Buying Groups
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
 duration: 598
-last-substantial-update: '2026-10-22T00:00:00.000Z'
+last-substantial-update: '2026-10-26T00:00:00.000Z'
 jira: KT-16052
 exl-id: 82f35fd7-41da-4883-bdeb-dd1beff8a0de
 autotag-review: '2026-10-22T23:50:44.711Z'
@@ -28,15 +29,28 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 87e82da81f0005d71bb3a72328051caa9d373a06
+source-git-commit: 0ec258b00e1e1696e0bf38b8ba6dd56ff5060244
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 3%
+source-wordcount: '252'
+ht-degree: 4%
 ---
-# Modelli di ruoli
+# Modelli di ruoli del gruppo acquisti
 
-Scopri come acquistare modelli di ruolo di gruppo e come configurarli/utilizzarli durante la creazione di un gruppo di acquisto.
+Scopri come creare modelli di ruolo in [!DNL Adobe Journey Optimizer B2B Edition]. Questi modelli definiscono chi partecipa a una decisione di acquisto, in che modo le persone vengono assegnate a ruoli e cosa completa un gruppo di acquisto. Questo video tratta la creazione di modelli, la configurazione dei ruoli e la pubblicazione.
+
+Questa esercitazione è destinata agli addetti al marketing e agli amministratori che utilizzano [!DNL Journey Optimizer B2B Edition] per attività di marketing basate sull&#39;account e desiderano eseguire il targeting delle parti interessate in ogni account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453309/?captions=ita&learn=on)
+
+Scopri come:
+
+* Apri l’inventario dei modelli di ruolo in Gruppi di acquisto e distingue i modelli bozza da quelli live.
+* Creare un nuovo modello di ruolo con un nome e una descrizione univoci.
+* Configurare un ruolo, compresi la ponderazione, l&#39;assegnazione automatica e i requisiti di completezza.
+* Definire le condizioni di assegnazione per ogni ruolo, ad esempio la corrispondenza in base al titolo della mansione.
+* Per includere tutti i partecipanti, aggiungi altri ruoli, ad esempio Responsabile delle decisioni, Professionista e Influencer.
+* Imposta la priorità del ruolo in modo che le persone vengano assegnate al primo ruolo le cui condizioni corrispondono.
+* Utilizzare le impostazioni del punteggio di completezza per impostare il numero di membri necessari per ogni ruolo.
+* Pubblica un modello in modo che il suo stato cambi in Live ed è disponibile per gli interessi della soluzione.
 
 Per ulteriori informazioni, vedere [Acquisto di modelli di ruolo di gruppo](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) nella guida utente.
