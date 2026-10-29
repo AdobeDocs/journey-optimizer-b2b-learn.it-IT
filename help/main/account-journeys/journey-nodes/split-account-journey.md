@@ -49,4 +49,4 @@ Scopri come:
 * Dividi per persone utilizzando gli attributi persona, gli attributi relazione account-persona, l’iscrizione al gruppo di acquisto, gli oggetti personalizzati e la cronologia degli eventi con intervalli di lookback, frequenza e filtro di inattività.
 * Scopri in che modo il nodo dei percorsi di suddivisione automatica della chiusura restituisce le persone al percorso di account.
 
-Per ulteriori informazioni, vedere _[Dividere e unire i percorsi](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ nella guida utente.
+Per ulteriori informazioni, vedere _[Dividere e unire i percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ nella guida utente.
