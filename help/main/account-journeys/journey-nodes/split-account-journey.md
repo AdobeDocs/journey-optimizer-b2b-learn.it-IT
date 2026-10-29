@@ -1,5 +1,5 @@
 ---
-title: Dividi e unisci percorsi in Adobe [!DNL Journey Optimizer B2B Edition]
+title: Dividere e unire i percorsi
 description: Scopri come dividere e unire i percorsi in Adobe [!DNL Journey Optimizer B2B Edition] per instradare account o persone in base alle condizioni, impostare la priorità dei percorsi e gestire pubblici senza corrispondenza.
 keywords: percorsi suddivisi, percorsi di unione, Adobe [!DNL Journey Optimizer B2B Edition], percorso di account, nodi di percorso, marketing basato su account, orchestrazione dei percorsi B2B, preparazione all’acquisto dei gruppi, condizioni dei percorsi, suddivisione delle persone, filtro della cronologia degli eventi, segmentazione del percorso
 feature: Account Journeys
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Dividi e unisci percorsi in Adobe [!DNL Journey Optimizer B2B Edition]
+# Dividere e unire i percorsi
 
 Scopri come utilizzare i nodi dei percorsi di divisione e unione in Adobe [!DNL Journey Optimizer B2B Edition] per indirizzare gli account o le persone attraverso un percorso di account in base alle condizioni. Questo video descrive le suddivisioni di account e persone, la priorità del percorso, i percorsi predefiniti e l’unione.
 
 Questo tutorial è destinato a professionisti del marketing e designer di percorsi che utilizzano [!DNL Journey Optimizer B2B Edition] per personalizzare percorsi di marketing basati su account per segmenti diversi e membri di gruppi di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443264/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
 Scopri come:
 
@@ -49,4 +49,4 @@ Scopri come:
 * Dividi per persone utilizzando gli attributi persona, gli attributi relazione account-persona, l’iscrizione al gruppo di acquisto, gli oggetti personalizzati e la cronologia degli eventi con intervalli di lookback, frequenza e filtro di inattività.
 * Scopri in che modo il nodo dei percorsi di suddivisione automatica della chiusura restituisce le persone al percorso di account.
 
-Per ulteriori informazioni, vedere _[Dividere e unire i percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ nella guida utente.
+Per ulteriori informazioni, vedere _[Dividere e unire i percorsi](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ nella guida utente.
