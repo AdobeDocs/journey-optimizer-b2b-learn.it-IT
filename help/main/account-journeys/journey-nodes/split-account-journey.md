@@ -35,7 +35,7 @@ Scopri come utilizzare i nodi dei percorsi di divisione e unione in Adobe [!DNL 
 
 Questo tutorial è destinato a professionisti del marketing e designer di percorsi che utilizzano [!DNL Journey Optimizer B2B Edition] per personalizzare percorsi di marketing basati su account per segmenti diversi e membri di gruppi di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443264/?captions=ita&learn=on&enablevpops)
 
 Scopri come:
 
