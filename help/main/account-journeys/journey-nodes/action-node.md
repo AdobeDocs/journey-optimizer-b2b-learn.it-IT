@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Utilizzare i nodi di azione in [!DNL Adobe Journey Optimizer B2B Edition] per definire azioni per account o persone in un percorso. Confronta le azioni account e persone e scopri quali azioni supporta ogni tipo di percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443253/?captions=ita&quality=12&learn=on)
 
 ## Nodi di base azione
 

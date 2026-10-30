@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Utilizzare il nodo [!UICONTROL Ascolta un evento] in [!DNL Adobe Journey Optimizer B2B Edition] per far avanzare un percorso quando si verifica un evento. Confronta gli eventi dell’account e della persona, definisci i criteri di corrispondenza e configura i timeout per controllare quanto tempo il percorso attende.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443242/?captions=ita&quality=12&learn=on)
 
 ## Nodo di ascolto essenziale
 
