@@ -30,4 +30,4 @@ Il video tratta i seguenti argomenti:
 
 ## Documentazione correlata
 
-Per gli eventi supportati, i passaggi di configurazione e le opzioni di timeout, fare riferimento a [Ascolta un evento nella guida utente](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
+Per gli eventi supportati, i passaggi di configurazione e le opzioni di timeout, fare riferimento a [Ascolta un evento nella guida utente](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.

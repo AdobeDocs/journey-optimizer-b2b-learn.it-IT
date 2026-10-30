@@ -35,5 +35,5 @@ Un listener risponde all’attività di streaming corrispondente quando l’acco
 
 Per i requisiti e le istruzioni di configurazione, consulta queste pagine nella guida utente:
 
-* [Seleziona eventi e campi esperienza](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [Ascoltare un evento](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [Seleziona eventi e campi esperienza](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [Ascoltare un evento](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
