@@ -1,23 +1,33 @@
 ---
-title: Nodo di ascolto
-description: Scopri i nodi di ascolto e come configurarli durante la creazione di un Percorso di account.
+title: Ascolta un nodo evento
+description: Scopri come utilizzare i nodi di ascolto in Adobe Journey Optimizer B2B Edition. Confronta gli eventi dell’account e della persona, definisci i criteri di corrispondenza e configura i timeout degli eventi.
 feature: Account Journeys
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Feature Video
-duration: 538
-last-substantial-update: 2025-01-29T00:00:00Z
+duration: 126
+last-substantial-update: 2026-10-29
 jira: KT-17237
 exl-id: 440dfe69-d4dc-406d-b567-8cf56965ef4a
-source-git-commit: c7b76b0f10bc4becb38c515e0b4c4cc9c457c6fb
+source-git-commit: fae92807ede9410f62e9a12e485202b72786c16b
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 0%
-
+source-wordcount: '136'
+ht-degree: 1%
 ---
+# Ascolta un nodo evento
 
-# Nodo di ascolto
+Utilizzare il nodo [!UICONTROL Ascolta un evento] in [!DNL Adobe Journey Optimizer B2B Edition] per far avanzare un percorso quando si verifica un evento. Confronta gli eventi dell’account e della persona, definisci i criteri di corrispondenza e configura i timeout per controllare quanto tempo il percorso attende.
 
-Scopri i nodi di ascolto e come configurarli durante la creazione di un Percorso di account.
+>[!VIDEO](https://video.tv.adobe.com/v/3443242/?captions=ita&quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3443242/?captions=ita&learn=on&enablevpops)
+## Nodo di ascolto essenziale
+
+Il video tratta i seguenti argomenti:
+
+* Differenza tra eventi account ed eventi persona.
+* Criteri di corrispondenza per i trigger di evento.
+* Impostazioni di timeout per gli eventi che non si verificano entro il tempo specificato.
+
+## Documentazione correlata
+
+Per gli eventi supportati, i passaggi di configurazione e le opzioni di timeout, fare riferimento a [Ascolta un evento nella guida utente](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
