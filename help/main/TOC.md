@@ -3,10 +3,10 @@ user-guide-title: Tutorial su [!DNL Journey Optimizer B2B Edition]
 breadcrumb-title: Tutorial su [!DNL Journey Optimizer B2B Edition]
 user-guide-description: Scopri come ottenere il massimo da [!DNL Journey Optimizer B2B Edition]. Organizza account e percorsi del gruppo acquisti utilizzando l’intelligenza artificiale generativa incorporata e l’automazione leader di settore per ottimizzare la domanda di offerte specifiche.
 auto-video-transcripts: true
-source-git-commit: 4d3631a3a7a9c5944bb8f3eaa48427b6f9069228
+source-git-commit: fae92807ede9410f62e9a12e485202b72786c16b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 70%
+source-wordcount: '87'
+ht-degree: 58%
 ---
 
 # [!DNL Journey Optimizer B2B Edition] {#tutorials}
@@ -17,11 +17,11 @@ ht-degree: 70%
   + [Introduzione ai percorsi](/help/main/account-journeys/introducing-account-journeys.md)
   + [Creazione di un percorso di account](/help/main/account-journeys/create-an-account-journey.md)
   + Nodi del percorso {#journey-nodes}
-    + [Nodo azione](/help/main/account-journeys/journey-nodes/action-node.md)
-    + [Nodo di ascolto](/help/main/account-journeys/journey-nodes/listen-node.md)
-    + [Ascolta eventi di AEP](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
+    + [Crea un nodo di azione](/help/main/account-journeys/journey-nodes/action-node.md)
+    + [Ascolta un nodo evento](/help/main/account-journeys/journey-nodes/listen-node.md)
+    + [Ascolta eventi esperienza](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
     + [Orchestrazione di file multimediali a pagamento](/help/main/account-journeys/journey-nodes/paid-media-orchestration.md)
-    + [Dividere e unire i percorsi](/help/main/account-journeys/journey-nodes/split-account-journey.md)
+    + [Dividere e unire i nodi dei percorsi](/help/main/account-journeys/journey-nodes/split-account-journey.md)
 + Account {#accounts}
   + [Elenchi account](/help/main/accounts/account-lists.md)
 + Gruppi acquisti {#buying-groups}
